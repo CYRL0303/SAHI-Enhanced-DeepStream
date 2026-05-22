@@ -1,4 +1,4 @@
-# SAHI Enhanced DeepStream
+# SEDS - SAHI Enhanced DeepStream
 
 Standalone **DeepStream + SAHI bypass** inference framework for edge devices.
 
